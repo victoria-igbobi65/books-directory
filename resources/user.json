@@ -1,0 +1,20 @@
+[
+    {
+        "username": "Vic",
+        "email": "victoriaigbobi65@gmail.com",
+        "password": "Hello",
+        "role": "admin"
+    },
+    {
+        "username": "Emmanuel",
+        "email": "nzeduemmanuel@gmail.com",
+        "password": "1234",
+        "role": "reader"
+    },
+    {
+        "username": "prosper",
+        "email": "anosikeprosper@gmail.com",
+        "password": "1234",
+        "role": "reader"
+    }
+]
